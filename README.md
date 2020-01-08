@@ -12,9 +12,9 @@ Tests will be written against the user stories in the project.  Backend tests wi
 
 ## Data
 
-Initial data loads will be in CSV files, but the goal is to get to SQL Server on Linux in Azure as long as cost can be kept down.  Another relational DB may be subsituted to keep costs low for the long run, but initial testing will be done on SQL Server 2017/2019
+Initial data loads will be in CSV files, but the goal is to get to SQL Server on Linux in Azure as long as cost can be kept down.  Another relational DB may be subsituted to keep costs low for the long run, but initial testing will be done on SQL Server 2017/2019. I would like to create a Graph QL implementation using Apollo or such for data.
 
-## Backend - APIsapi
+## Backend - APIs
 
 The backed APIs will be written in C# in .NET Core 3.x in a small microservices architecture that aligns with containerization
 
